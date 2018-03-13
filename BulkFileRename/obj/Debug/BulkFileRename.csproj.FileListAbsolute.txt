@@ -1,0 +1,9 @@
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\bin\Debug\BulkFileRename.exe.config
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\bin\Debug\BulkFileRename.exe
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\bin\Debug\BulkFileRename.pdb
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\obj\Debug\BulkFileRename.csprojResolveAssemblyReference.cache
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\obj\Debug\BulkFileRename.Form1.resources
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\obj\Debug\BulkFileRename.Properties.Resources.resources
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\obj\Debug\BulkFileRename.csproj.GenerateResource.Cache
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\obj\Debug\BulkFileRename.exe
+F:\Users\public\documents\projects\BulkFileRename\BulkFileRename\obj\Debug\BulkFileRename.pdb
